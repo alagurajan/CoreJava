@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="01_Variable Declaration"/>
+	<classpathentry kind="src" path="02_Post&amp;Pre Increment or Decrement"/>
+	<classpathentry kind="src" path="03_Methods"/>
+	<classpathentry kind="src" path="04_Methods With Arguments"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
