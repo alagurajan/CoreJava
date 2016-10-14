@@ -1,4 +1,4 @@
-package com.source.code.variable.initialization;
+package com.source;
 
 public class V_24
 {

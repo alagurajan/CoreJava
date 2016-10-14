@@ -1,4 +1,4 @@
-package com.source.code.variable.initialization;
+package com.source;
 
 public class E_07
 {
