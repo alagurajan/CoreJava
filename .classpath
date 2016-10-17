@@ -10,6 +10,14 @@
 	<classpathentry kind="src" path="07_Instance Variables &amp; Methods"/>
 	<classpathentry kind="src" path="08_Constructors (139 -164 in Section3)"/>
 	<classpathentry kind="src" path="09_Instance Initialization Block (165 - 175 in Section3)"/>
+	<classpathentry kind="src" path="10_Inheritance"/>
+	<classpathentry kind="src" path="11_Packages"/>
+	<classpathentry kind="src" path="12_Packages One"/>
+	<classpathentry kind="src" path="13_Packages Two"/>
+	<classpathentry kind="src" path="14_Abstract (115 - 128 in Section6)"/>
+	<classpathentry kind="src" path="15_Interface (129 - 157 in Section6)"/>
+	<classpathentry kind="src" path="16_Method Overloading &amp; Riding (158 - 188 in Section6)"/>
+	<classpathentry kind="src" path="17_Casting (115 - 172 in Section7)"/>
 	<classpathentry kind="src" path="Notes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
