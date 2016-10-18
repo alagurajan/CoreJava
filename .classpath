@@ -18,6 +18,7 @@
 	<classpathentry kind="src" path="15_Interface (129 - 157 in Section6)"/>
 	<classpathentry kind="src" path="16_Method Overloading &amp; Riding (158 - 188 in Section6)"/>
 	<classpathentry kind="src" path="17_Casting (115 - 172 in Section7)"/>
+	<classpathentry kind="src" path="18_Polymorphism"/>
 	<classpathentry kind="src" path="Notes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
