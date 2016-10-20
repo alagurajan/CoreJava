@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class Z_129
+public class Z2
 {
 				// Main method missing
 }

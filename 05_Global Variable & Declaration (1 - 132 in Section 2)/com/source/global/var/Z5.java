@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class Z_132
+public class Z5
 {
 	static int i= test();
 	static int test()

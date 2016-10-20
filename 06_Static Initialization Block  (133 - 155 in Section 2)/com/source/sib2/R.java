@@ -1,6 +1,6 @@
-package com.source.sib;
+package com.source.sib2;
 
-class R_150
+class R
 {
 	static int i=10;
 }

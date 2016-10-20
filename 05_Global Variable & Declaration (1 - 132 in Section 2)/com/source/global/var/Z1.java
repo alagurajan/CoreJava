@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class Z_128
+public class Z1
 {
 	static int i=test();			// Initializers are executed before Main method 
 	static int test()

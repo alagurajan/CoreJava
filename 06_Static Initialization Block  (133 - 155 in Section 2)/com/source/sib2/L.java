@@ -1,6 +1,6 @@
-package com.source.sib;
+package com.source.sib2;
 
-public class L_147
+public class L
 {
 	static 
 	{
@@ -22,7 +22,7 @@ class M
 	public static void main(String[] args)
 	{
 		System.out.println("M-main begin");
-		L_147.main(args);
+		L.main(args);
 		System.out.println("M-main end");
 	}
 }

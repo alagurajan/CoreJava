@@ -1,6 +1,6 @@
-package com.source.sib;
+package com.source.sib2;
 
-public class V_154
+public class V
 {
 	static
 	{
@@ -10,7 +10,7 @@ public class V_154
 	public static void main(String[] args)
 	{
 		System.out.println("V-main begin");
-		U_153.main(args);
+		U.main(args);
 		System.out.println("------------");
 		System.out.println("V-main end");
 	}

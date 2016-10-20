@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class B_01
+public class B
 {
 	static int i;
 	static double j;

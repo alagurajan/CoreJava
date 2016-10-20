@@ -1,14 +1,14 @@
-package com.source.sib;
+package com.source.sib2;
 
-class A_143
-{
-	static int i;
-}
-public class B_143
+class A
 {
 	public static void main(String[] args)
 	{
-		System.out.println(A_143.i);
+		System.out.println(B1.i);
 	}
 	
+}
+class B1
+{
+	static int i;
 }

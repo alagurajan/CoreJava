@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class Z_127
+public class Z
 {
 	static int i=test();		// Complier only checking the Return Type of the Method ("test()").
 	static int j=10;

@@ -1,6 +1,6 @@
-package com.source.sib;
+package com.source.sib2;
 
-class N_148
+class N
 {
 	static
 	{

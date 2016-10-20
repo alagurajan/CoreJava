@@ -1,6 +1,6 @@
-package com.source.sib;
+package com.source.sib2;
 
-public class P_149
+public class P
 {
 
 	public static void main(String[] args)

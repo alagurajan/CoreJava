@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class L_113
+public class L
 {
 
 	public static void main(String[] args)

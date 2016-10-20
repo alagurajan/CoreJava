@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class N_115
+public class N
 {
 	static int i=10;
 
@@ -8,7 +8,7 @@ public class N_115
 	{
 		int i=20;
 		System.out.println(i);
-		System.out.println(N_115.i);  // If we want use Global variable
+		System.out.println(N.i);  // If we want use Global variable
 	}
 
 }

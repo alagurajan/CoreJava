@@ -1,6 +1,6 @@
-package com.source.sib;
+package com.source.sib2;
 
-enum B_144
+enum B
 {
 
 }

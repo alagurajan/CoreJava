@@ -1,13 +1,13 @@
-package com.source.sib;
+package com.source.sib2;
 
-public class F_145
+public class F
 {
 	static int i;
 
 	public static void main(String[] args)
 	{
 		System.out.println("from main:"+i);
-		System.out.println("from main:"+F_145.i);
+		System.out.println("from main:"+F.i);
 	}
 
 }
@@ -15,6 +15,6 @@ class G
 {
 	public static void main(String[] args)
 	{
-		System.out.println("from main:"+F_145.i);
+		System.out.println("from main:"+F.i);
 	}
 }

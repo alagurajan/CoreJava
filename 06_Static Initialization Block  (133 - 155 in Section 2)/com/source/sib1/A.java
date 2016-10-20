@@ -1,6 +1,6 @@
-package com.source.sibext;
+package com.source.sib1;
 
-public class A_133
+public class A
 {
 	static
 	{

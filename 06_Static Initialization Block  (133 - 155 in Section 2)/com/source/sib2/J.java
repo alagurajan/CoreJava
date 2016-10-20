@@ -1,6 +1,6 @@
-package com.source.sib;
+package com.source.sib2;
 
-public class J_146
+public class J
 {
 	static
 	{

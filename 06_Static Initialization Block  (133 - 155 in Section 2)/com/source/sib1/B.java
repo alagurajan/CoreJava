@@ -1,6 +1,6 @@
-package com.source.sibext;
+package com.source.sib1;
 
-public class B_134
+public class B
 {
 	
 	public static void main(String[] args)

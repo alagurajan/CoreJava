@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class Q_118
+public class Q
 {
 	static int i=10;
 
@@ -9,7 +9,7 @@ public class Q_118
 		System.out.println(i);
 		double i=2.9;
 		System.out.println(i);
-		System.out.println(Q_118.i);
+		System.out.println(Q.i);
 	}
 
 }

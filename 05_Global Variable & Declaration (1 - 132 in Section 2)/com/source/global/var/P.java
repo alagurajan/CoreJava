@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class P_117
+public class P
 {
 	static int i;
 
@@ -8,7 +8,7 @@ public class P_117
 	{
 		System.out.println(i);
 		i=10;
-		System.out.println(P_117.i);
+		System.out.println(P.i);
 	}
 
 }

@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class H_07
+public class H
 {
 	static int i;
 	static void test()

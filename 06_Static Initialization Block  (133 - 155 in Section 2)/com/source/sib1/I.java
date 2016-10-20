@@ -1,6 +1,6 @@
-package com.source.sibext;
+package com.source.sib1;
 
-public class I_141
+public class I
 {
 	static int i=test();
 	

@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class F_05
+public class F
 {
 	static int i,j=10,k,m=20;
 	public static void main(String[] args)

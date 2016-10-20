@@ -1,6 +1,6 @@
 package com.source.global.var;
 
-public class Y_126
+public class Y
 {
 	static int i=10;
 	static int j= test();

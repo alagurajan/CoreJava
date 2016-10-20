@@ -1,12 +1,12 @@
-package com.source.sib;
+package com.source.sib2;
 
-public class T_152
+public class T
 {
 
 	public static void main(String[] args)
 	{
-		System.out.println(R_150.i);
-		S_151.test();
+		System.out.println(R.i);
+		S.test();
 	}
 
 }

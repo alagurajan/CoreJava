@@ -1,6 +1,6 @@
-package com.source.sib;
+package com.source.sib2;
 
-public class S_151
+public class S
 {
 	static void test()
 	{
