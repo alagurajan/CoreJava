@@ -23,6 +23,7 @@
 	<classpathentry kind="src" path="21_Enum (115 - 140 in Section11)"/>
 	<classpathentry kind="src" path="22_Inner Class (115 - 172 in Section 12)"/>
 	<classpathentry kind="src" path="23_Annotation (115 - 138 in Section13)"/>
+	<classpathentry kind="src" path="24_Exception Handling"/>
 	<classpathentry kind="src" path="Notes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
