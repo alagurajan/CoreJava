@@ -21,7 +21,7 @@
 	<classpathentry kind="src" path="19_Final keyword (124 -173 in Section9)"/>
 	<classpathentry kind="src" path="20_This keyword (115 -133 in Section10)"/>
 	<classpathentry kind="src" path="21_Enum (115 - 140 in Section11)"/>
-	<classpathentry kind="src" path="22_Inner Class (115 - 177 in Section 12)"/>
+	<classpathentry kind="src" path="22_Inner Class (115 - 172 in Section 12)"/>
 	<classpathentry kind="src" path="Notes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
