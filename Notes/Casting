@@ -1,3 +1,4 @@
 Casting Order is     
 
   byte <short<int<long<float<double
+  byte <Number<Object
