@@ -1,0 +1,11 @@
+package com.source.string5;
+
+public class Z2
+{
+
+	public static void main(String[] args)
+	{
+		System.out.printf("(%1$-,10.3f)",8956.9898988);
+	}
+
+}
