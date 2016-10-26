@@ -27,6 +27,7 @@
 	<classpathentry kind="src" path="25_Generics"/>
 	<classpathentry kind="src" path="26_Wrapper Classes"/>
 	<classpathentry kind="src" path="27_String"/>
+	<classpathentry kind="src" path="28_Object"/>
 	<classpathentry kind="src" path="Notes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
