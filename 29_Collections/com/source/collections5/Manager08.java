@@ -1,0 +1,21 @@
+package com.source.collections5;
+
+class I<X>
+{
+	X f1;
+}
+
+public class Manager08
+{
+
+	public static void main(String[] args)
+	{
+		I obj1				=	new I();
+		I<String>	obj2	=	new I<String>();
+		
+		obj1.f1	=	new Object();
+		obj2.f1	=	"abc";
+		System.out.println("Done");
+	}
+
+}
