@@ -29,6 +29,7 @@
 	<classpathentry kind="src" path="27_String"/>
 	<classpathentry kind="src" path="28_Object"/>
 	<classpathentry kind="src" path="29_Collections"/>
+	<classpathentry kind="src" path="30_Threads"/>
 	<classpathentry kind="src" path="Notes"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
