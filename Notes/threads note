@@ -1,0 +1,19 @@
+  									MultiThreading
+ Multitasking:- more than one task simultaneously is called multitasking.
+ 
+ multitasking is of 2 types:- 
+ 1. Multiprocessing 
+ 2.Multithreading
+ 
+ Multiprocessing- More than on process simultaneously.
+ 
+ Example- 1.playing a audio file
+ 2. downloading a binary file
+ 3. printing a document
+ 
+All are independent process working simultaneously but there is only process in the system.
+One Processor executing multiple independent process simultaneously.
+At any moment, one processor executes only one process for 1 or 2 milli second. then it will execute some other process.
+Maximum it will serve some process for 10 milli second.
+But we think that all processes are occuring simultaneously.
+But internally at any time only one process is executed by the process.   
